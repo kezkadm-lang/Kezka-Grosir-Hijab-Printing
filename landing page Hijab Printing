@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hijab Printing - Pesan Sekarang!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Hijab Printing Berkualitas</h1>
+        <p>Pesan minimal 1000 hijab dengan motif pilihan Anda!</p>
+    </header>
+
+    <section id="problem">
+        <h2>Masalah yang Dihadapi</h2>
+        <p>Apakah Anda kesulitan menemukan hijab dengan desain yang unik dan sesuai dengan brand Anda? Banyak pilihan di pasaran, tetapi sulit untuk menemukan yang benar-benar mencerminkan identitas Anda.</p>
+    </section>
+
+    <section id="agitation">
+        <h2>Kenapa Ini Penting?</h2>
+        <p>Desain yang monoton dan tidak menarik dapat membuat produk Anda kurang diminati. Anda perlu sesuatu yang berbeda untuk menarik perhatian pelanggan dan meningkatkan penjualan.</p>
+    </section>
+
+    <section id="solution">
+        <h2>Solusi Kami</h2>
+        <p>Kami menawarkan layanan hijab printing dengan minimal order 1000 pcs. Anda bebas memilih motif yang diinginkan, termasuk motif laser cutting yang modern dan stylish. Dengan kualitas bahan terbaik, hijab kami akan membuat brand Anda semakin menonjol!</p>
+    </section>
+
+    <section id="features">
+        <h2>Keunggulan Kami</h2>
+        <ul>
+            <li>Minimal order 1000 pcs</li>
+            <li>Pilih motif sesuai keinginan Anda</li>
+            <li>Motif laser cutting yang elegan</li>
+            <li>Kualitas bahan premium</li>
+            <li>Pengiriman tepat waktu</li>
+        </ul>
+    </section>
+
+    <section id="call-to-action">
+        <h2>Siap Memesan?</h2>
+        <p>Jangan lewatkan kesempatan untuk memiliki hijab dengan desain yang unik dan menarik. Hubungi kami sekarang untuk mendapatkan penawaran terbaik!</p>
+        <a href="contact.html" class="btn">Hubungi Kami</a>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Hijab Printing. Semua hak dilindungi.</p>
+    </footer>
+</body>
+</html>
